@@ -1,4 +1,8 @@
-lab02_sdrhoads
-==============
+CS130E-S14-Labs
+===============
 
-lab02 for Sidney Rhoads
+If you made something for lab02, 
+the Arduino shield, put it in this repo
+and push.
+
+
